@@ -1,21 +1,21 @@
 {
   "name": "fastify-hello-world",
   "version": "1.0.0",
-  "description": "A Fastify example to deploy to Render",
+  "description": "A Fastify example to deploy to TroqCloud",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/render-examples/fastify-hello-world.git"
+    "url": "git+https://github.com/troqcloud-test/fastify-hello-world.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/render-examples/fastify-hello-world/issues"
+    "url": "https://github.com/troqcloud-test/fastify-hello-world/issues"
   },
-  "homepage": "https://github.com/render-examples/fastify-hello-world#readme",
+  "homepage": "https://github.com/troqcloud-test/fastify-hello-world#readme",
   "dependencies": {
     "fastify": "^4.17.0"
   },
